@@ -1,2 +1,5 @@
 # alx-system_engineering-devops
-Where am I
+
+## Projects
+
+1. [0x00-shell_basics](./0x00-shell_basics)
